@@ -1,0 +1,1 @@
+<template><div><h2>Treinos da Semana</h2></div></template>

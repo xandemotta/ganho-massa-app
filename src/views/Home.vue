@@ -1,0 +1,1 @@
+<template><div><h1>Bem-vindo ao Ganho Massa App</h1></div></template>
